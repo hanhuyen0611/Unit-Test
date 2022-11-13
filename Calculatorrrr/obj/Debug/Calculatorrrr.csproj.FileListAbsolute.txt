@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Calculatorrrr\Calculatorrrr\obj\Debug\Calculatorrrr.Form1.resources
+C:\Users\Admin\source\repos\Calculatorrrr\Calculatorrrr\obj\Debug\Calculatorrrr.Properties.Resources.resources
+C:\Users\Admin\source\repos\Calculatorrrr\Calculatorrrr\obj\Debug\Calculatorrrr.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Calculatorrrr\Calculatorrrr\obj\Debug\Calculatorrrr.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Calculatorrrr\Calculatorrrr\bin\Debug\Calculatorrrr.exe.config
+C:\Users\Admin\source\repos\Calculatorrrr\Calculatorrrr\bin\Debug\Calculatorrrr.exe
+C:\Users\Admin\source\repos\Calculatorrrr\Calculatorrrr\bin\Debug\Calculatorrrr.pdb
+C:\Users\Admin\source\repos\Calculatorrrr\Calculatorrrr\obj\Debug\Calculatorrrr.exe
+C:\Users\Admin\source\repos\Calculatorrrr\Calculatorrrr\obj\Debug\Calculatorrrr.pdb
